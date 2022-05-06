@@ -1,0 +1,31 @@
+#home-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    height: 100%;
+    background-color: azure;
+}
+
+.title-wrapper {
+    margin-top: 40%;
+    text-align: center;
+}
+.buttons-wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+#create-game-btn {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.pin-input {
+    margin-top: 5%;
+}
+
+#join-game-btn {
+    margin-top: 5%;
+}
